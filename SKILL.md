@@ -1,11 +1,11 @@
 ---
 name: fashion-web-scraper
 description: 时尚行业官网/秀场图片与设计理念自动采集（可选旁挂，配合 fashion-studio）。给品牌官网/秀场链接或站名，要求抓图、下载秀场图、读设计理念时使用。
-license: CC-BY-NC-4.0
+license: CC-BY-4.0
 metadata:
   author: "hexiaoyu0525-design"
   version: "0.1.0"
-  license-name: "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)"
+  license-name: "Creative Commons Attribution 4.0 International (CC BY 4.0)"
   repository: "https://github.com/hexiaoyu0525-design/fashion-web-scraper"
   copyright: "Copyright © 2026 hexiaoyu0525-design"
 ---
