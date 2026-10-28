@@ -1,6 +1,6 @@
 ---
 name: fashion-web-scraper
-description: 时尚行业官网/秀场图片与设计理念自动采集（可选旁挂，配合 fashion-studio）。给品牌官网/秀场链接要求抓图、下载秀场图、读设计理念时使用；反爬/登录墙场景有明确降级路径。
+description: 时尚行业官网/秀场图片与设计理念自动采集（可选旁挂，配合 fashion-studio）。给品牌官网/秀场链接或站名，要求抓图、下载秀场图、读设计理念时使用。
 license: CC-BY-NC-4.0
 metadata:
   author: "hexiaoyu0525-design"
