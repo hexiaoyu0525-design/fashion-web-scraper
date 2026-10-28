@@ -2,7 +2,7 @@
 
 > 给一个品牌官网 / 秀场链接，变成一批归档可用的参考素材：自动定位最新季秀场、提取设计理念、下载高清图、按素材库规范落盘登记。可独立使用，也可作为 [fashion-studio](https://github.com/hexiaoyu0525-design/fashion-studio) 的可选旁挂。
 
-License: **CC BY-NC 4.0**（使用须署名、禁止商用）· 版本 0.1.0 · 作者：hexiaoyu0525-design
+License: **CC BY 4.0**（使用须署名）· 版本 0.1.0 · 作者：hexiaoyu0525-design
 
 ---
 
@@ -31,8 +31,8 @@ License: **CC BY-NC 4.0**（使用须署名、禁止商用）· 版本 0.1.0 · 
 
 ## 使用边界
 
-本仓库公开，欢迎学习与借鉴方法论（通道设计、降级思路、版权分级思路均可参考）。但**禁止整包复制 / 改名换名后重新发布**，**禁止商用**（含以此接单、卖课、收费服务）；引用本作品内容请注明出处。
+本仓库公开，欢迎学习与借鉴方法论（通道设计、降级思路、版权分级思路均可参考）。但不得在未署名或改名换名后作为自己作品发布；引用本作品内容请注明出处。
 
 ## 许可证
 
-[CC BY-NC 4.0](LICENSE) · 完整法律文本见 LICENSE。© 2026 hexiaoyu0525-design · 仓库：<https://github.com/hexiaoyu0525-design/fashion-web-scraper>
+[CC BY 4.0](LICENSE) · 完整法律文本见 LICENSE。© 2026 hexiaoyu0525-design · 仓库：<https://github.com/hexiaoyu0525-design/fashion-web-scraper>
